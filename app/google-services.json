@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "411525340490",
+    "project_id": "sosyalmedyam-789ba",
+    "storage_bucket": "sosyalmedyam-789ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411525340490:android:c01b03a6049c7592c675b3",
+        "android_client_info": {
+          "package_name": "com.example.sosyalmedyam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411525340490-lggk37u5rioi8e1rd4sr14cbqih1atr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBua8mPB4x_MXchx2NLFfr_tF6tHr2qAk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411525340490-lggk37u5rioi8e1rd4sr14cbqih1atr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
